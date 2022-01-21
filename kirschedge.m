@@ -1,4 +1,5 @@
-%% Function Built by Dr. Saroj Kumar. Link:https://www.mathworks.com/matlabcentral/fileexchange/47325-kirschedge-m %% 
+%% Function Built by Dr. Saroj Kumar. Link:https://www.mathworks.com/matlabcentral/fileexchange/47325-kirschedge-m %%
+
 function y=kirschedge(x)
     
     x=double(x);

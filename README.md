@@ -25,6 +25,7 @@ The edge extraction has been performed at 0, 10 and 20 degree angle resolution.
 
 ## Working with Fuzziness
 Four edge operators have been chosen to introduce high degree of fuzziness into the image. The operators are listed below:
+
 ![image](https://user-images.githubusercontent.com/98129458/150477012-b1dc39bd-4b18-445e-b805-98a4192afad8.png)
 
 ### Combined Degree of Fuzziness
